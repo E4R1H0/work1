@@ -34,7 +34,7 @@ else:
     st.write("ไม่แสดงข้อมูล")
 
 html_8 = """
-<div style="background-color:#F0F8FF;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
+<div style="background-color:#20B2AA;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
 <center><h5>ดูดวงกันจ้า</h5></center>
 </div>
 """
