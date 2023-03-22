@@ -6,6 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 #st.header("Kairung")
+st.image("./pic/tasan.jpg")
 
 html_8 = """
 <div style="background-color:#000066;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
